@@ -5,3 +5,6 @@ Welcome to recipes.
 chicken
 eggs
 fish
+paneer
+dish
+dal makhani
